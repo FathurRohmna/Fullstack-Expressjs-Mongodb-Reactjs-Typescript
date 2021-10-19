@@ -9,14 +9,14 @@ A platform from reading many article from Fathur Rohman
 
 ## Feature Application
 
-### - Authentication user, LOGIN/REGISTER/LOGOUT using jsonwebtoken
-### - Dashboard Page
-### - Creat, Update, Delete Article 
-### - Create, Delete Category
-### - Update, Delete User
-### - Search All Categories Data
-### - Sorting Table
-### - Swagger for documentation
+- Authentication user, LOGIN/REGISTER/LOGOUT using jsonwebtoken
+- Dashboard Page
+- Creat, Update, Delete Article 
+- Create, Delete Category
+- Update, Delete User
+- Search All Categories Data
+- Sorting Table
+- Swagger for documentation
 
 
 ## Usage
